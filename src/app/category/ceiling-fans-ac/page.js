@@ -8,26 +8,66 @@ const ProductGrid = () => {
     {
       name: "CLASSIC MODEL   (OFF-WHITE)",
       image: "/Images/Classic_model_off_white.png",
-      price: 9535,
+      price: 5500,
     },
     {
       name: "CLASSIC MODEL   (BLACK)",
       image: "/Images/Classic_model_black.png",
-      price: 9195,
+      price: 5500,
     },
     {
-      name: "N M MODEL",
+      name: "FANTESY MODEL (BLACK)",
       image: "/Images/NM_model.png",
-      price: 9995,
+      price: 5500,
+    },
+    {
+      name: "FANTESY MODEL (OFF-WHITE)",
+      image: "/Images/N_M_model_white.png",
+      price: 5500,
     },
     {
       name: "FANCY GOLD   (OFF-WHITE)",
       image: "/Images/Fancy_Gold_off_white.png",
-      price: 9535,
+      price: 5600,
     },
     {
       name: "FANCY GOLD   (BLACK)",
       image: "/Images/Fancy_Gold.png",
+      price: 5600,
+    },
+    {
+      name: "FANCY GOLD   (BLACK)",
+      image: "/Images/fan5.png",
+      price: 9535,
+    },
+    {
+      name: "FANCY LAHORE  (BLACK)",
+      image: "/Images/fan1.png",
+      price: 9535,
+    },
+    {
+      name: "FANCY LAHORE  (BLACK)",
+      image: "/Images/fan2.png",
+      price: 9535,
+    },
+    {
+      name: "RIZWAN MODEL  (BLACK)",
+      image: "/Images/fan6.png",
+      price: 9535,
+    },
+    {
+      name: "JUNAID MODEL   (BLACK)",
+      image: "/Images/fan7.png",
+      price: 9535,
+    },
+    {
+      name: "GUJRAT MODEL  (BLACK)",
+      image: "/Images/fan3.png",
+      price: 9535,
+    },
+    {
+      name: "GUJRAT MODEL   (BLACK)",
+      image: "/Images/fan4.png",
       price: 9535,
     },
   ]);
